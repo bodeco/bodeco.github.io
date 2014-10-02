@@ -781,6 +781,7 @@
 			font-weight: 700;
 			line-height: 1.3em;
 			margin: 0 0 1.5em 0;
+			background: #404248;
 		}
 		
 			#banner h2 strong
@@ -824,6 +825,7 @@
 		{
 			color: #fff;
 			color: rgba(255,255,255,0.75);
+			background: #404248;
 		}
 
 /*********************************************************************************/
