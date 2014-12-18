@@ -14,4 +14,7 @@ Nan Liu
 
 Dan Bode
 ---------
+* [Using Puppet in the Cloud 2013](https://www.youtube.com/watch?v=qTnPdNHH4Ho)
+* [Graph based Orchestration with Puppet 2013](https://www.youtube.com/watch?v=G86Z2CJtnaw)
 * [State of Puppet 2012](https://www.youtube.com/watch?v=Z8EOizsaC7w)
+* [Puppet and Openstack 2012](https://www.youtube.com/watch?v=f5uEjd9BIio)

@@ -7,11 +7,17 @@ sharing: true
 footer: true
 ---
 ## Dan Bode ##
-<img alt='Dan Bode Picture' style="vertical-align:text-bottom;" src='http://www.gravatar.com/avatar/fdc17cc1e90f736b9c80ad983402f07a?s=150' />
-Dan recently founded Bodeco to build out a consulting practice targeted at large scale infrastructure automation solutions.
-He is currently focused on building deployment solutions for large scale Openstack environments.
-Previously, he did a four year stint at PuppetLabs, where he helped grow the company as one of the original employees.
-Prior to Puppet Labs, Dan held a wide range of technical positions supporting scientific researchers in HPC environments.
+<img alt='Dan Bode Picture' style="vertical-align:text-bottom;" src='images/dan_bode.jpeg' />
+
+Dan has spent the majority of his career working as a customer facing engineer, ensuring
+that customers can solve real business problems with technologies. He founded Bodeco
+after realizing that his experience building infrastructure automation solutions at
+Puppet Labs equipped him with a unique perspective for successfully building continuously
+delivery pipelines.
+
+He has made significant contributions to both the Puppet and OpenStack open source
+ecosystems and currently focuses on building out continuous delivery solutions for large scale
+OpenStack environments.
 
 ## Nan Liu ##
 <img alt='Nan Liu Picture' style="vertical-align:text-bottom;" src='http://www.gravatar.com/avatar/8aefee069b8ee9d37d6b298ba5771c5b?s=150' />
